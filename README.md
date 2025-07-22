@@ -27,9 +27,9 @@ Il simulatore implementa un modello matematico basato sui parametri orbitali kep
 |------|-----------|  
 | `Orbita.h` | Definizione classe `OrbitSimulator` e metodi per il calcolo orbitale |  
 | `Orbita.cpp` | Implementazione:  
-  - `solveKepler()`: Risolutore numerico (Newton-Raphson)  
-  - `getPosition()`: Conversione anomalie → coordinate 3D  
-  - `simulate()`: Genera traiettoria temporale |  
+                  - `solveKepler()`: Risolutore numerico (Newton-Raphson)  
+                  - `getPosition()`: Conversione anomalie → coordinate 3D  
+                  - `simulate()`: Genera traiettoria temporale |  
 | `Main.cpp` | Configura parametri orbitali e salva CSV |  
 
 ### Python (Visualizzazione)  
@@ -48,4 +48,5 @@ Il simulatore implementa un modello matematico basato sui parametri orbitali kep
    ./Orbita_sim  # Genera orbita.csv
    
    python Orbita.csv #Visualizzare il satellite che gira
-
+   ```
+work in progress...
