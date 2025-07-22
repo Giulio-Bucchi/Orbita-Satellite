@@ -10,6 +10,7 @@ Il simulatore implementa un modello matematico basato sui parametri orbitali kep
 
 
 <img width="1000" height="835" alt="Screenshot 2025-07-22 alle 14 38 52" src="https://github.com/user-attachments/assets/ef372526-9281-4e93-a180-398cd80d5776" />
+![orbita](https://github.com/user-attachments/assets/3266fe02-2f11-4014-824c-0cc599f90124)
 
 
 ## 📌 **Caratteristiche**  
