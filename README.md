@@ -47,6 +47,6 @@ Il simulatore implementa un modello matematico basato sui parametri orbitali kep
    
    ./Orbita_sim  # Genera orbita.csv
    
-   python Orbita.csv #Visualizzare il satellite che gira
+   python Orbita.py #Visualizzare il satellite che gira
    ```
-work in progress...
+
