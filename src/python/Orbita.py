@@ -5,7 +5,7 @@ from matplotlib.animation import FuncAnimation # animazione satellite
 from mpl_toolkits.mplot3d import Axes3D # 3D
 
 # Carica i dati
-data = pd.read_csv('/Users/.../.../.../Orbita/data/orbita.csv')
+data = pd.read_csv('/Users/Desktop/.../.../Orbita/data/orbita.csv')
 x, y, z = data['x_km'], data['y_km'], data['z_km']
 
 # Configura la figura 3D
