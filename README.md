@@ -1,4 +1,4 @@
-# Orbita-Satellite 🌍🛰️  
+# Orbita-Satellite  🛰️  
 **Simulazione di orbita satellitare in C++ e Python**  
 Un simulatore di orbite satellitari che implementa la meccanica orbitale kepleriana per calcolare traiettorie 3D realistiche intorno alla Terra, con visualizzazione animata.
 Il simulatore implementa un modello matematico basato sui parametri orbitali kepleriani, tra cui : 
