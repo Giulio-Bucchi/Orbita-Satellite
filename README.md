@@ -40,7 +40,7 @@ Il simulatore implementa un modello matematico basato sui parametri orbitali kep
   - **Punto rosso**: Satellite (frame-by-frame)  
   - **Linea rossa**: Traiettoria passata |  
 
-## 🚀 **Come eseguire**  
+## **Come eseguire**  
 1. **Compilazione C++**:  
    ```bash
    g++ main.cpp Orbita.cpp -o Orbita_sim
