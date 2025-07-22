@@ -37,8 +37,8 @@ Il simulatore implementa un modello matematico basato sui parametri orbitali kep
 |------|-----------|  
 | `Orbita.py` | Animazione 3D con:  
   - **Linea blu**: Orbita completa  
-  - **Punto rosso**: Satellite (frame-by-frame)  
-  - **Linea rossa**: Traiettoria passata |  
+  - **Punto rosso**: Satellite  
+  - **Linea rossa**: Traiettoria passata  
 
 ## **Come eseguire**  
 1. **Compilazione C++**:  
